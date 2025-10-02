@@ -350,11 +350,3 @@ Syracuse Women's Basketball completed a successful 2023-24 season (24-8 record, 
 - Public data only: No access to proprietary team analytics or internal metrics
 
 ---
-
-**Report Prepared By**: Ankit Waikar, OPT Research Program  
-**Report Date**: October 2024  
-**Stakeholder Review Status**: Pending Athletic Director and Coaching Staff approval  
-**Submission Contact**: jrstrome@syr.edu  
-**Repository**: https://github.com/awaikar-syr/Task_07_Decision_Making.git
-
-**Final Confidence Statement**: This report integrates AI-assisted analysis with rigorous human oversight, comprehensive statistical validation, and thorough ethical review. All recommendations include appropriate uncertainty acknowledgment and risk stratification to support responsible stakeholder decision-making. The methodology provides complete transparency and reproducibility for institutional confidence and third-party validation.
